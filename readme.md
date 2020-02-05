@@ -1,4 +1,4 @@
-## Setup
+## Setup gulp
 
 ### prérequis technique
 
